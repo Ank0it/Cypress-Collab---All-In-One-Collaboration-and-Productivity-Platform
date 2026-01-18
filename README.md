@@ -1,7 +1,5 @@
 # Cypress Collab - All-In-One Collaboration and Productivity Platform
 
-![Application Logo](https://raw.githubusercontent.com/webprodigies/webprodigies-cypress/main/public/cover.png)
-
 A modern SaaS collaboration platform built with Next.js 13, featuring real-time collaboration, workspace management, and seamless productivity tools.
 
 ## 🌟 Overview
